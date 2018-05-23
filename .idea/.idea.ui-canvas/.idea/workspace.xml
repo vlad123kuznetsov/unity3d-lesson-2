@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d704937-8f29-4466-a6ca-1195441d7fbc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Basic.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/GetComponent/SpecialScript.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/GetComponent/SpecialScript.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Input/ParallaxEffect.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Input/ParallaxEffect.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Input/TestRotate.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/Input/TestRotate.cs.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragAndDropTrigger.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragAndDropTrigger.cs.meta" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-01555a2cfc49a40288ab7cf71a77df43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0d7ab07530af74ee2a7abb0e7a8a6ca1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-24f13aa1124f7484db1bb79e387433aa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-30213ceb6158740bc9e2ed50a2107046" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-37ce43ec6e7484498bc36700fdcdcfc4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-514227a47b5754cd9a4c7b89a0325fb1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-53cd3267b77184b0fbd3ef5f396d562f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5611d83e0f5ca4da6afa5bbd45ebd855" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5e2e5a9f8211e404799a8acae2491a35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-60cfd070cc1fc476e87e4d929444d0a3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6e3b1ccdfd78b420983d7bc0856440b3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-70b57c3f477824a13855ced0e51736fe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7770e1882137640e295542a229360511" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-812752453ba5a4158ad00a19f56010cb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a263bf28d7aef4010858acc28ccfb0b5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a4c52de7971694d3897ab24d0beb7836" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a509c9666f67947c69444985954512bd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a54639a4974cb4b26a1cdb8f73be2f3c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c9d6face533014829b6d7657158119f2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d3c335ab815d94a98b25f08bc63c2a14" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-df3790e98e7304d0ba1bd0ebf4f06d33" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-eac1177d125fe49d0b0153b5333fb348" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-efc0316a845324493b5fc32811b67690" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fd61330b48aee40b7ace571af8782ea8" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/0d/0d66d863f3d7c4d0c8ed72711750ce08" afterPath="$PROJECT_DIR$/Library/metadata/0d/0d66d863f3d7c4d0c8ed72711750ce08" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ui-canvas/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ui-canvas/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ui-canvas/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ui-canvas/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/GamePlay.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/GamePlay.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-canvas.sln" afterPath="$PROJECT_DIR$/ui-canvas.sln" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GenerateLargeHierachy.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <marker date="1527064260008" expanded="true" signature="6:59" ph="..." />
+                <marker date="1527064260008" expanded="true" signature="111:1758" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="331:734" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="636:683" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="805:1756" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="854:894" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="942:1750" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="1050:1132" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="1149:1221" ph="{...}" />
+                <marker date="1527064260008" expanded="true" signature="1306:1469" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestFunctions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+              <folding>
+                <marker date="1527065295453" expanded="true" signature="6:140" ph="..." />
+                <marker date="1527065295453" expanded="true" signature="185:2184" ph="{...}" />
+                <marker date="1527065295453" expanded="true" signature="246:1947" ph="{...}" />
+                <marker date="1527065295453" expanded="true" signature="252:1941" ph="/* by name ... */" />
+                <marker date="1527065295453" expanded="true" signature="1995:2182" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicMonoMethod.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527067706010" expanded="false" signature="6:79" ph="..." />
+                <marker date="1527067706010" expanded="true" signature="104:2070" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="155:2068" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="251:305" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="348:401" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="443:494" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="536:592" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="632:686" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="723:811" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="841:1320" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="901:1006" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1058:1165" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1232:1310" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1366:1696" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1561:1686" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1735:1798" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1839:1902" ph="{...}" />
+                <marker date="1527067706010" expanded="true" signature="1932:2044" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DragHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <marker date="1527097397538" expanded="false" signature="6:40" ph="..." />
+                <marker date="1527097397538" expanded="true" signature="96:331" ph="{...}" />
+                <marker date="1527097397538" expanded="true" signature="162:204" ph="{...}" />
+                <marker date="1527097397538" expanded="true" signature="231:276" ph="{...}" />
+                <marker date="1527097397538" expanded="true" signature="301:329" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScaleGesture.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/Multitouch/ScaleGesture.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="102" lean-forward="false" selection-start-line="57" selection-start-column="102" selection-end-line="57" selection-end-column="102" />
+              <folding>
+                <marker date="1527097491324" expanded="true" signature="6:32" ph="..." />
+                <marker date="1527097491324" expanded="true" signature="62:1646" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="125:1644" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="443:812" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="507:802" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="630:697" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="718:788" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="844:1280" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="905:1154" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="1209:1270" ph="{...}" />
+                <marker date="1527097491324" expanded="true" signature="1315:1637" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyCode.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EE3E9DB-7221-449F-BD43-DC81973FB5B6/2e/8c1ec4dc/KeyCode.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParallaxEffect.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/ParallaxEffect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527068394324" expanded="true" signature="6:40" ph="..." />
+                <marker date="1527068394324" expanded="true" signature="65:1543" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="115:1541" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="405:492" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="523:1004" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="581:994" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="638:743" ph="{...}" />
+                <marker date="1527068394324" expanded="true" signature="1079:1535" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRotate.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestRotate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1527065263873" expanded="true" signature="43:460" ph="{...}" />
+                <marker date="1527065263873" expanded="true" signature="89:458" ph="{...}" />
+                <marker date="1527065263873" expanded="true" signature="252:452" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateLargeHierachyEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+              <folding>
+                <marker date="1527062702299" expanded="false" signature="6:97" ph="..." />
+                <marker date="1527062702299" expanded="true" signature="195:338" ph="{...}" />
+                <marker date="1527062702299" expanded="true" signature="237:336" ph="{...}" />
+                <marker date="1527062702299" expanded="true" signature="276:333" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EE3E9DB-7221-449F-BD43-DC81973FB5B6/2e/8c1ec4dc/KeyCode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestRotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A87F162D-47B8-4BE7-B6EA-E656C9C5AA2B/e7/99d383d8/EventTrigger.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/Input/Multitouch/ScaleGesture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/Input/ParallaxEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script2.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestScript2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaleGesture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Drag/DragHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Input/BadInputField.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Input/TestKeyboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Input/TestInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/QuaternionDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/QuaternionLerpDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lesson2/Input/Multitouch/ScaleGesture.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ui-canvas (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Script2&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d704937-8f29-4466-a6ca-1195441d7fbc" name="Default" comment="" />
+      <created>1526222561554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526222561554</updated>
+      <workItem from="1526222565015" duration="578000" />
+      <workItem from="1526508971336" duration="82000" />
+      <workItem from="1526574947240" duration="11616000" />
+      <workItem from="1526817614956" duration="11172000" />
+      <workItem from="1527094452161" duration="2129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25553000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23402777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23402777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A87F162D-47B8-4BE7-B6EA-E656C9C5AA2B/e7/99d383d8/EventTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="24" lean-forward="false" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaledImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/IScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <marker date="1527062702299" expanded="false" signature="6:97" ph="..." />
+            <marker date="1527062702299" expanded="true" signature="195:338" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="237:336" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="276:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Drag/DragHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EE3E9DB-7221-449F-BD43-DC81973FB5B6/2e/8c1ec4dc/KeyCode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding>
+            <marker date="1527067706010" expanded="false" signature="6:79" ph="..." />
+            <marker date="1527067706010" expanded="true" signature="104:2070" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="155:2068" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="251:305" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="348:401" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="443:494" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="536:592" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="632:686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="723:811" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="841:1320" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="901:1006" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1058:1165" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1232:1310" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1366:1696" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1561:1686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1735:1798" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1839:1902" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1932:2044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/BadInputField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1527064260008" expanded="true" signature="6:59" ph="..." />
+            <marker date="1527064260008" expanded="true" signature="111:1758" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="331:734" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="636:683" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="805:1756" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="854:894" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="942:1750" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1050:1132" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1149:1221" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1306:1469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestKeyboard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding>
+            <marker date="1527065295453" expanded="true" signature="6:140" ph="..." />
+            <marker date="1527065295453" expanded="true" signature="185:2184" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="246:1947" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="252:1941" ph="/* by name ... */" />
+            <marker date="1527065295453" expanded="true" signature="1995:2182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1527064260008" expanded="true" signature="6:59" ph="..." />
+            <marker date="1527064260008" expanded="true" signature="111:1758" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="331:734" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="636:683" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="805:1756" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="854:894" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="942:1750" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1050:1132" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1149:1221" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1306:1469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding>
+            <marker date="1527065295453" expanded="true" signature="6:140" ph="..." />
+            <marker date="1527065295453" expanded="true" signature="185:2184" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="246:1947" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="252:1941" ph="/* by name ... */" />
+            <marker date="1527065295453" expanded="true" signature="1995:2182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/BadInputField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding>
+            <marker date="1527067706010" expanded="false" signature="6:79" ph="..." />
+            <marker date="1527067706010" expanded="true" signature="104:2070" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="155:2068" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="251:305" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="348:401" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="443:494" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="536:592" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="632:686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="723:811" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="841:1320" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="901:1006" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1058:1165" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1232:1310" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1366:1696" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1561:1686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1735:1798" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1839:1902" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1932:2044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EE3E9DB-7221-449F-BD43-DC81973FB5B6/2e/8c1ec4dc/KeyCode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <marker date="1527062702299" expanded="false" signature="6:97" ph="..." />
+            <marker date="1527062702299" expanded="true" signature="195:338" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="237:336" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="276:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Drag/DragHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TestScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TestScript2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script2.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GamePlay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A87F162D-47B8-4BE7-B6EA-E656C9C5AA2B/e7/99d383d8/EventTrigger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="24" lean-forward="false" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaledImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/IScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Multitouch/ScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/Editor/GenerateLargeHierachyEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <marker date="1527062702299" expanded="false" signature="6:97" ph="..." />
+            <marker date="1527062702299" expanded="true" signature="195:338" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="237:336" ph="{...}" />
+            <marker date="1527062702299" expanded="true" signature="276:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Drag/DragHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="29" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7EE3E9DB-7221-449F-BD43-DC81973FB5B6/2e/8c1ec4dc/KeyCode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/BadInputField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/GenerateLargeHierachy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1527064260008" expanded="true" signature="6:59" ph="..." />
+            <marker date="1527064260008" expanded="true" signature="111:1758" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="331:734" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="636:683" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="805:1756" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="854:894" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="942:1750" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1050:1132" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1149:1221" ph="{...}" />
+            <marker date="1527064260008" expanded="true" signature="1306:1469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestKeyboard.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/GetComponent/TestFunctions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding>
+            <marker date="1527065295453" expanded="true" signature="6:140" ph="..." />
+            <marker date="1527065295453" expanded="true" signature="185:2184" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="246:1947" ph="{...}" />
+            <marker date="1527065295453" expanded="true" signature="252:1941" ph="/* by name ... */" />
+            <marker date="1527065295453" expanded="true" signature="1995:2182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/QuaternionLerpDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/TestRotate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527065263873" expanded="true" signature="43:460" ph="{...}" />
+            <marker date="1527065263873" expanded="true" signature="89:458" ph="{...}" />
+            <marker date="1527065263873" expanded="true" signature="252:452" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Basic/BasicMonoMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527067706010" expanded="false" signature="6:79" ph="..." />
+            <marker date="1527067706010" expanded="true" signature="104:2070" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="155:2068" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="251:305" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="348:401" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="443:494" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="536:592" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="632:686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="723:811" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="841:1320" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="901:1006" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1058:1165" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1232:1310" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1366:1696" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1561:1686" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1735:1798" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1839:1902" ph="{...}" />
+            <marker date="1527067706010" expanded="true" signature="1932:2044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/UI/Drag/DragHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1527097397538" expanded="false" signature="6:40" ph="..." />
+            <marker date="1527097397538" expanded="true" signature="96:331" ph="{...}" />
+            <marker date="1527097397538" expanded="true" signature="162:204" ph="{...}" />
+            <marker date="1527097397538" expanded="true" signature="231:276" ph="{...}" />
+            <marker date="1527097397538" expanded="true" signature="301:329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/Multitouch/ScaleGesture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="102" lean-forward="false" selection-start-line="57" selection-start-column="102" selection-end-line="57" selection-end-column="102" />
+          <folding>
+            <marker date="1527097491324" expanded="true" signature="6:32" ph="..." />
+            <marker date="1527097491324" expanded="true" signature="62:1646" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="125:1644" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="443:812" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="507:802" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="630:697" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="718:788" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="844:1280" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="905:1154" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="1209:1270" ph="{...}" />
+            <marker date="1527097491324" expanded="true" signature="1315:1637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lesson2/Input/ParallaxEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1527068394324" expanded="true" signature="6:40" ph="..." />
+            <marker date="1527068394324" expanded="true" signature="65:1543" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="115:1541" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="405:492" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="523:1004" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="581:994" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="638:743" ph="{...}" />
+            <marker date="1527068394324" expanded="true" signature="1079:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
