@@ -6,6 +6,11 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Lesson1" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="GamePlay.cs" t="Include" />
+          </e>
+        </e>
         <e p="Lesson2" t="Include">
           <e p="Basic" t="Include">
             <e p="BasicMonoMethod.cs" t="Include" />
@@ -43,15 +48,43 @@
             </e>
           </e>
         </e>
+        <e p="Lesson3" t="Include">
+          <e p="AssetBundles" t="Include">
+            <e p="AssetBundleSimpleManager.cs" t="Include" />
+            <e p="AssetBundlesManager.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CreateBundles.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="ResourceManager.cs" t="Include" />
+          </e>
+          <e p="ScriptableObject" t="Include">
+            <e p="CreateInventoryItemList.cs" t="Include" />
+            <e p="InventoryItem.cs" t="Include" />
+            <e p="InventoryItemList.cs" t="Include" />
+          </e>
+          <e p="State" t="Include">
+            <e p="DataBase" t="Include">
+              <e p="SQLite.cs" t="Include" />
+              <e p="UserFriend.cs" t="Include" />
+            </e>
+            <e p="File" t="Include">
+              <e p="FileStateManager.cs" t="Include" />
+            </e>
+            <e p="IApplicationStateManager.cs" t="Include" />
+            <e p="PlayerPrefs" t="Include">
+              <e p="PlayerPrefsBadStateManager.cs" t="Include" />
+              <e p="PlayerPrefsStateManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
               <e p="Unity3DRider.cs" t="Include" />
             </e>
           </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="GamePlay.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

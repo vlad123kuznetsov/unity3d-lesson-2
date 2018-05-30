@@ -8,7 +8,7 @@ namespace Lesson2
 
         private void Update()
         {
-            Camera.main.transform.LookAt(cube1.transform);
+            Camera.main.transform.LookAt(cube1.transform.position);
         }
     }
 }

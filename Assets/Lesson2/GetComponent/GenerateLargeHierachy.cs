@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class GenerateLargeHierachy : MonoBehaviour
 {
-    private int objectsCount = 50;
+    private int objectsCount = 20;
     private int maxNestedLevel = 3;
     private int specialNumber1 = 10000;
     private int specialNumber2 = 50000;

@@ -5,12 +5,10 @@ namespace Lesson2.UI.Drag
 {
     public class DragAndDropTrigger : EventTrigger
     {
-        [SerializeField] private GameObject dragGo;
-	
         public override void OnDrag(PointerEventData eventData)
         {
             eventData.Use();
-            dragGo.transform.position += new Vector3(eventData.delta.x, eventData.delta.y);
+            gameObject.transform.position += new Vector3(eventData.delta.x, eventData.delta.y);
             base.OnDrag(eventData);
         }
 

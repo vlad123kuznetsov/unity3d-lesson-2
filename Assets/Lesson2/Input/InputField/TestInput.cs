@@ -1,12 +1,29 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+[Serializable]
+ public class User
+ {
+ 	public string Name;
+ 	public int Age;
+ }
+ 
+ public class UserManager : MonoBehaviour
+ {
+ 	public void SaveUser(User user)
+ 	{
+ 		PlayerPrefs.SetString("user", JsonUtility.ToJson(user));
+ 		PlayerPrefs.Save();
+ 	}
+ }
 
 public class TestInput : MonoBehaviour, IInput
 {
 	[SerializeField] private float speed = 10.0F;
 	[SerializeField] private float rotationSpeed = 100.0F;
-
+	
 	private IInput input;
 
 	private void Awake()
@@ -15,20 +32,20 @@ public class TestInput : MonoBehaviour, IInput
 		input = inputGo.AddComponent<KeyboardInput>();
 	}
 	
-	private void Update() 
-	{	
-		if(input.Horizontal < Mathf.Epsilon)
-			return;
-		
-		var translation = input.Horizontal * speed;
-		var rotation = input.Vertical * rotationSpeed;
-		
-		Debug.Log(input.Horizontal.ToString());
-		
-		translation *= Time.deltaTime;
-		rotation *= Time.deltaTime;
-		transform.Translate(translation, 0, 0);
-		transform.Rotate(0, rotation, 0);
+	private void Update()
+	{
+		if (Mathf.Abs(input.Horizontal) > Mathf.Epsilon)
+		{
+			var translation = input.Horizontal * speed;
+			var rotation = input.Vertical * rotationSpeed;
+
+			Debug.Log(input.Horizontal.ToString());
+
+			translation *= Time.deltaTime;
+			rotation *= Time.deltaTime;
+			transform.Translate(translation, 0, 0);
+			transform.Rotate(0, rotation, 0);
+		}
 	}
 
 	public float Horizontal { get; private set; }

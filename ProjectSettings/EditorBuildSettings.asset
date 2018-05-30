@@ -5,5 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Lesson2/testScene.unity
+    guid: 82fa8101e07274a91af475eb4da6a4ed
+  - enabled: 1
+    path: Assets/Lesson2/Basic/Quaternion/QuaternionLerpDemo.unity
+    guid: b8da665b1dd1c4595a7e26c15d5c9d9a
+  - enabled: 1
+    path: Assets/test_scene_3.unity
+    guid: 2bd6185033fec43148887984f6fd3d26

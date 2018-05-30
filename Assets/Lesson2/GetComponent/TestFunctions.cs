@@ -5,29 +5,18 @@ using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class TestFunctions : MonoBehaviour
 {
 	private Transform rootTransform;
-	
-	private void Update()
+
+	private void Awake()
 	{
+	}
+
+	private void Update()
+	{				
+
 		/*
-		//by name
-		var firstGoByName = GameObject.Find("special");
-		UnityEngine.Debug.Log(firstGoByName.name);
-		EstimateWorkTime(() => GameObject.Find("special"));
-		
-		//by type
-		var firstGoByType = FindObjectOfType<Image>();
-		UnityEngine.Debug.Log(firstGoByType.name);
-		EstimateWorkTime(() => FindObjectOfType<Image>());
-		
-		//by tag
-		var firstGoByTag = GameObject.FindGameObjectWithTag("special");
-		UnityEngine.Debug.Log(firstGoByTag.name);
-		EstimateWorkTime(() => GameObject.FindGameObjectWithTag("special"));
-		
 		//by type
 		var allGoByType = FindObjectsOfType<Image>();
 		foreach (var allGo in allGoByType)
@@ -37,9 +26,7 @@ public class TestFunctions : MonoBehaviour
 		EstimateWorkTime(() => FindObjectsOfType<Image>());
 
 		//get component
-		var justGetComponent = rootTransform.GetComponent<Image>();
-		UnityEngine.Debug.Log(justGetComponent.name);
-		EstimateWorkTime(() => rootTransform.GetComponent<Image>());
+		
 		
 		//find object in children with root transform
 		var go = rootTransform.GetComponentInChildren<Image>();
@@ -73,6 +60,6 @@ public class TestFunctions : MonoBehaviour
 		action();
 		watch.Stop();
 		UnityEngine.Debug.Log(watch.ElapsedMilliseconds.ToString());
-		return watch.ElapsedMilliseconds;
+		return watch.ElapsedTicks;
 	}
 }

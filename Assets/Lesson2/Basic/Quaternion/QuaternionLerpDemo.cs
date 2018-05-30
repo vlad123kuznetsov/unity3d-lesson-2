@@ -17,6 +17,11 @@ public class QuaternionLerpDemo : MonoBehaviour
 	
 	private void Update()
 	{
+		var idle = Quaternion.Euler(0, 0, 90);
+		var rotation = Quaternion.Euler(0, 0, 170);
+
+		var result = idle * Quaternion.Inverse(rotation);
+		
 		var rotationStep = Quaternion.Slerp(Camera.main.transform.rotation, toRotation, Time.deltaTime);
 		Camera.main.transform.rotation = rotationStep;
 	}

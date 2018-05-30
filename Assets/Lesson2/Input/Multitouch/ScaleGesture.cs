@@ -37,12 +37,13 @@ namespace Lesson2.Multitouch
 
 
         private void Update()
-        {
+        {            
             if (UnityEngine.Input.touchCount == 2)
             {
                 if (started) return;
 
                 started = true;
+                
                 startLeftPosition = UnityEngine.Input.touches[0].position;
                 startRightPosition = UnityEngine.Input.touches[1].position;
             }

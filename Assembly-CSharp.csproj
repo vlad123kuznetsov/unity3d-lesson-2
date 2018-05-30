@@ -69,6 +69,18 @@
     <Compile Include="Assets\Lesson2\Input\TestRotate.cs" />
     <Compile Include="Assets\Lesson2\UI\Drag\DragAndDropTrigger.cs" />
     <Compile Include="Assets\Lesson2\UI\Drag\DragHandler.cs" />
+    <Compile Include="Assets\Lesson3\AssetBundles\AssetBundleSimpleManager.cs" />
+    <Compile Include="Assets\Lesson3\AssetBundles\AssetBundlesManager.cs" />
+    <Compile Include="Assets\Lesson3\Resources\ResourceManager.cs" />
+    <Compile Include="Assets\Lesson3\ScriptableObject\CreateInventoryItemList.cs" />
+    <Compile Include="Assets\Lesson3\ScriptableObject\InventoryItem.cs" />
+    <Compile Include="Assets\Lesson3\ScriptableObject\InventoryItemList.cs" />
+    <Compile Include="Assets\Lesson3\State\DataBase\SQLite.cs" />
+    <Compile Include="Assets\Lesson3\State\DataBase\UserFriend.cs" />
+    <Compile Include="Assets\Lesson3\State\File\FileStateManager.cs" />
+    <Compile Include="Assets\Lesson3\State\IApplicationStateManager.cs" />
+    <Compile Include="Assets\Lesson3\State\PlayerPrefs\PlayerPrefsBadStateManager.cs" />
+    <Compile Include="Assets\Lesson3\State\PlayerPrefs\PlayerPrefsStateManager.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>/Applications/Unity_2017.1.1f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>

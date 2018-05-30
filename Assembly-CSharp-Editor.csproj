@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Lesson2\GetComponent\Editor\GenerateLargeHierachyEditor.cs" />
+    <Compile Include="Assets\Lesson3\AssetBundles\Editor\CreateBundles.cs" />
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>/Applications/Unity_2017.1.1f1/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>

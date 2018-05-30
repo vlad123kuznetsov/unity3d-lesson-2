@@ -13,7 +13,7 @@ namespace Lesson2.Basic
             Debug.Log("focused");
         }
 
-        private void OnApplicationPause()
+        private void OnApplicationPause(bool paused)
         {
             Debug.Log("paused");
         }
@@ -35,19 +35,19 @@ namespace Lesson2.Basic
 
         private void OnDrawGizmos()
         {
-            Gizmos.DrawCube(transform.position, Vector3.one * 10); 
+            Gizmos.DrawCube(transform.position, Vector3.one * 1000); 
         }
 
         private void OnGUI()
-        {
+        {   
             if (GUILayout.Button("change scene"))
             {
-                SceneManager.LoadScene("test_scene2", LoadSceneMode.Single);
+                SceneManager.LoadScene("test_scene_3", LoadSceneMode.Single);
             }
 
             if (GUILayout.Button("load additive"))
             {
-                SceneManager.LoadScene("test_scene2", LoadSceneMode.Additive);
+                SceneManager.LoadScene("test_scene_3", LoadSceneMode.Additive);
             }
             
             if (GUILayout.Button("load scene async"))
@@ -67,6 +67,13 @@ namespace Lesson2.Basic
                 yield return null;
             }
         }
+
+        private void OnColiisioEnter(Collider collider)
+        {
+            
+        }
+        
+        
 
         private void OnTriggerEnter()
         {
